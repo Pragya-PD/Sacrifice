@@ -9,7 +9,7 @@ How to run the game:
 
 Link to the Game overview video: https://drive.google.com/file/d/1_LXDPjtdb-B6_Jyg2sgimQVBIfW1pu-x/view?usp=sharing
 
-Link to code overiew video: 
+Link to code overiew video: https://drive.google.com/file/d/1aZSV2Dt6TJ0Ve5v9OEy4JjOd27Bk1o8I/view?usp=sharing
 
 Link to the github repository: https://github.com/Peony27/Sacrifice
 
